@@ -9,5 +9,6 @@
         "editorconfig.editorconfig",
         "dotenv.dotenv-vscode",
         "amiralizadeh9480.laravel-extra-intellisense",
+        "ms-vscode-remote.vscode-remote-extensionpack"
     ]
 }
